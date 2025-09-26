@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overcast Test Feed</title>
+    <link>https://www.passacosa.net/</link>
+    <description>Test</description>
+    <language>en</language>
+    <atom:link rel="self" href="https://grandolphthegrey.github.io/podrun/oc-test.xml" type="application/rss+xml"/>
+    <lastBuildDate>Fri, 26 Sep 2025 00:55:00 +0000</lastBuildDate>
+
+    <item>
+      <title>Ping</title>
+      <link>https://www.passacosa.net/</link>
+      <enclosure url="https://audio.buzzsprout.com/zgdlq7v6lfv9evpess73bo765fbx"
+                 length="41607339"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">oc-test-0001</guid>
+      <pubDate>Fri, 26 Sep 2025 00:50:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
